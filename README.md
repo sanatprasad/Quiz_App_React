@@ -1,7 +1,7 @@
 # React-Quiz-App
 A repo for quiz Application using react js and CSS
 
-<h1>Quiz App Version 1</h1>
+<h1>Quiz App </h1>
 
 <div>
   <img width="375" height="375" alt="image" src="https://user-images.githubusercontent.com/36126362/215242543-8e096031-58af-47ae-b7eb-df910973f7fe.png">
